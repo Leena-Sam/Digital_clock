@@ -28,9 +28,6 @@ lbl = Label(root, font=('calibri', 40, 'bold'),
 # Placing clock at the centre
 # of the tkinter window
 lbl.pack(anchor='center')
-
-
-
 time()
 
 mainloop()
