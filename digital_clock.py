@@ -10,10 +10,10 @@ from time import strftime
 root = Tk()
 root.title('Clock')
 
+# This function is used to
+# display time on the label
 
-# Placing clock at the centre
-# of the tkinter window
-lbl.pack(anchor='center')
+
 time()
 
 mainloop()
